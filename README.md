@@ -6,5 +6,5 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvendra)](https://github.com/Yashvendra/github-readme-stats)-->
-![Yashvendra's Stats](https://github-readme-stats.vercel.app/api?username=Yashvendra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![Yashvendra's Stats](https://github-readme-stats.vercel.app/api?username=Yashvendra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 ![Yashvendra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashvendra&theme=whatsapp-dark2&hide_border=true)
